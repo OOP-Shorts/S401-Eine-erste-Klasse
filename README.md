@@ -1,4 +1,4 @@
-In dieser Aufgabe beschäftigst du dich mit dem Erstellen eigener Klassen. Dabei geht es darum, Vorlagen für bestimmte Objekte anzulegen und dabei deren Eigenschaften und Methoden selbständig festzulegen. Im konkreten Fall erstellst du einen Hund, der eine überschaubare Anzahl von Eigenschaften beeinhalten soll.
+In dieser Aufgabe beschäftigst du dich mit dem Erstellen eigener Klassen. Dabei geht es darum, Vorlagen für bestimmte Objekte anzulegen und dabei deren Eigenschaften und Methoden selbständig festzulegen. Im konkreten Fall erstellst du einen Hund, der eine überschaubare Anzahl von Eigenschaften, sowie einen Konstruktor beeinhalten soll.
 
 ## Relevante Kursinhalte
 
